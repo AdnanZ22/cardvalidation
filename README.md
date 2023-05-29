@@ -19,7 +19,7 @@ CardValidationSystem is a web application that validates credit card information
 1. Clone the repository:
 
    ```shell
-   git clone [repository-url]
+   git clone https://github.com/AdnanZ22/cardvalidation.git
 
 2. Place the files index.php, style.css, and validate-card.php in your web server's document root folder.
 
@@ -27,26 +27,16 @@ CardValidationSystem is a web application that validates credit card information
 
 Usage
 
-1. Open the index.php file in your web browser.
+1. Open the index.php file in your web browser on localhost.
 
 2. Enter the credit card information in the input fields provided.
 
 3. Click the "Validate" button to validate the card.
 
-4. The validation result will be displayed below the form.
+4. The validation result will be displayed in popup on page validate-card.php.
 
 
 Contributing
 
 Contributions are welcome! If you have any suggestions, bug fixes, or feature requests, please submit them as issues or create a pull request.
-
-
-License
-
-[License Name] - [License URL]
-
-
-Replace `[repository-url]` with the URL of your GitHub repository, and choose an appropriate license and its URL for the "License" section.
-
-Feel free to modify the content as per your project's requirements.
 
